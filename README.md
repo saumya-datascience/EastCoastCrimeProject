@@ -27,7 +27,7 @@
  
 ## Purpose/Questions to be Answered
 
-Our aim for this project is to find the safest state to live on the East Coast with respect to the Crime Rate. So, are you planning to relocate? Or are you just  interested in researching all the different types of crimes or which type of crime is most prevalent in your state? Do police numbers,iIncome or education affect the crime rate? Look no further, this Dashboard provides you with a comprehensive insight into the world of crime through Interactive Maps,Graphs and Visualizations. Data includes 17 states, 10 different crime types from years 2014 to 2018
+Our aim for this project is to find the safest state to live on the East Coast with respect to the Crime Rate. So, are you planning to relocate? Or are you just  interested in researching all the different types of crimes or which type of crime is most prevalent in your state? Do police numbers,Income or education affect the crime rate? Look no further, this Dashboard provides you with a comprehensive insight into the world of crime through Interactive Maps,Graphs and Visualizations. Data includes 17 states, 10 different crime types from years 2014 to 2018
 
  
 Keeping our aim in mind some of the burning questions we tried to address in our project are as follows:
