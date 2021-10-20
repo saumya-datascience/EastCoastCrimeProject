@@ -200,7 +200,7 @@ Following are the list of sources we used in our project:
 
 ## Panel
 ## Demographic Info Panel 
- This panel consist of three dropdowns that are interactive. It consist of Crime_type,state_type and the year dropdowns.By selecting one of the crimetypes in the dropdown and 
+ This panel consist of three interactive dropdowns . It consist of Crime_type,state_type and the year dropdowns.By selecting one of the crimetypes in the dropdown and 
  selecting one of the state in the state_type dropdown and lastly selecting one of the year, it pulls  all the data from the database corresponding to the data selected and populates it to the demographic info Panel.This helps users to know exactly the information they need to take decisions on where to relocate to.
 ![Dashboard](https://github.com/Jackelyneg/Crime-Project/blob/main/images/dashboard_Dropdowns.jpg)
 
