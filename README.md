@@ -274,13 +274,7 @@ Choropleth maps are popular thematic maps used to represent statistical data thr
 
 To conclude our analysis, we categorized east coast states depending upon crime rates. Our analysis shows the 5 best states with the least amount of crime (PA, NH, ME, NJ, MA) and the 5 worst states with the greatest amount of crime (MD, FL, CT, NY, RI) on the east coast. This was determined by the count on our bar chart on the number of crimes committed and the density of the crime in our choropleth map. Through further analysis, we discovered that larceny and property crimes are the largest crime types in nearly all states. We decided to use the states with the minimum and maximum crimes reported for our analysis. In 2018, Maryland (MD) had the highest crime rate (82,073) vs. Pennsylvania (PA) which had the lowest crime rate (1,529). Using these states, the data showed no direct relationship between population and crime rate. MD has a total population of 6,035,802 vs PA with a population of 12,800,922. As you can see, PA has a much higher population than MD, yet MD has more crimes reported. However, even though the population has no direct relationship, there is a possible relationship between crime rate and number of police MD 2018 police count 16,981 vs PA 25,505. There are more police in PA than in MD It is also interesting to note that even though MD median Income is $87,785 vs PA income $65,693, MD has the highest crime rate. More money, more crime!
 
-## Contacts:
 
-- [Saumya Pandey](https://github.com/saumya-datascience)
-- [Andy Jagdeo](https://github.com/Andyjag91)
-- [Tricia Toffey](https://github.com/ttoffey)
-- [Jackelyne Gutierrez](https://github.com//Jackelyneg)
-- [Okyere Gyebi](https://github.com/Okyere82)
 
 
 
